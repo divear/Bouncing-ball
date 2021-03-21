@@ -1,0 +1,10 @@
+
+* {
+    background-color: rgb(217, 233, 228);
+}
+
+.canvas{
+    
+    background-color: azure;
+    border: black 3px double;
+}
